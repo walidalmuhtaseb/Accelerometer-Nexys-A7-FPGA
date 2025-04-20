@@ -1,7 +1,11 @@
+/*
+
+This is purly for help with understanding the code, it is not required for the code to work
+if you want to change the stabalization of movment or decide the speads you can use the 7 SSD's to have an easy way to see the values
+
+*/
+
 `timescale 1ns / 1ps
-// Created by David J. Marion
-// Date 7.22.2022
-// For NexysA7 Accelerometer Reading
 
 
 module seg7_control(

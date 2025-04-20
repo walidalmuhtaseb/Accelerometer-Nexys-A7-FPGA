@@ -5,6 +5,7 @@
 // Create Date: 12/4/2025 01:54:30 PM
 // Design Name: Accelerator Top Module
 // Module Name: top
+// Description: Merged top module for accelerometer, VGA display, and 7-segment display
 //////////////////////////////////////////////////////////////////////////////////
 
 module merged_top(

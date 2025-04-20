@@ -1,12 +1,11 @@
 `timescale 1ns / 1ps
-// Created by David J. Marion
-// Date 7.22.2022
-// For NexysA7 Accelerometer Reading
 
 module iclk_gen(
     input CLK100MHZ,        // nexys a7 sys clk
     output clk_4MHz         // 4MHz clk
 );
+
+// you can change this to be anything you want, tbh there is no reuqremnt for this to be anything as long as its constant
     
     // For a 50% duty cycle
     // 100 x 10^6 / 4 x 10^6 / 2 = 12.5 <-- not possible to split a bit
