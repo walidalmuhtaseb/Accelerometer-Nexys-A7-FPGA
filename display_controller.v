@@ -1,9 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: Walid Al-Muhtaseb
 // 
-// Create Date:    4.17.2025 01:54:30 PM 
+// last change:    4.17.2025 01:54:30 PM 
 // Design Name: 
 // Module Name:    DisplayController 
 // Project Name: 
