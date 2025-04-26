@@ -1,6 +1,8 @@
 `timescale 1ns / 1ps
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 // Created by David J. Marion
+// huge thanks for David for his work in actually figuring this out, this project project would've taken a lot longer with his yt videos, please go check him out
+// page name: FPGA Discovery (Learning How to Work with FPGAs)
 // For Nexys A7 3-Axis Accelerometer Reading
 // Last update: 4.17.2025 by Walid Al-Muhtaseb
 //
