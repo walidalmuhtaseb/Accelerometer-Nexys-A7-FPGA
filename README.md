@@ -44,3 +44,7 @@ Connect the board to a VGA monitor
 Power on the board
 Tilt the board to control the ball movement
 Observe accelerometer data on the seven-segment display and LEDs
+
+Enginears:
+Walid Al-Muhtaseb 
+Juan Lorenzo Ordenes
